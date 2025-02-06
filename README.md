@@ -1,19 +1,10 @@
-# Hossam Mahmoud Portfolio
+#Aouni Chaker Portfolio
 
 This is my portfolio website showcasing my frontend development projects, experience, skills and, much more.
 
-![Portfolio Screenshot](./src/assets/images/Screenshot.png)
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Contributing](#contributing)
-- [About Me](#about-me)
-- [Get Started](#get-started)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 
@@ -48,7 +39,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 ## About Me
 
-I'm a passionate frontend developer with experience in creating interactive and user-friendly web applications. I enjoy tackling challenges and learning new technologies to enhance my skills. With a solid foundation in HTML, CSS, and JavaScript, I enjoy bringing designs to life and building intuitive interfaces.
+I'm a passionate full stack js developer with experience in creating interactive and user-friendly web applications. I enjoy tackling challenges and learning new technologies to enhance my skills. With a solid foundation in HTML, CSS, and JavaScript, I enjoy bringing designs to life and building intuitive interfaces.
 
 ## Get Started
 
@@ -62,19 +53,17 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 Feel free to reach out to me:
 
-- Website: [Hossam Mahmoud](https://hossam-mahmoud-portfolio.vercel.app/)
-- GitHub: [@HossamMahmoudKhedr](https://github.com/HossamMahmoudkhedr)
-- LinkedIn: [Hossam Mahmoud](https://www.linkedin.com/in/hossam-mahmoud/)
-- Email: hossamkheder9999@gmail.com
+
+- GitHub: (https://github.com/cheker-135)
+- Email: chykou87@gmail.com
 
 Let's connect and discuss your next project!
 
 Give me a start ⭐ if you liked my portfolio.
+Happy coding !!
